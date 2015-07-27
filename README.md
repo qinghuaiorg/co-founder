@@ -12,4 +12,4 @@ Welcome Aboard! Co-founder of http://1.qinghuai.org
 
 Github | Favorite
 ---             | --- 
-[tvvocold](https://github.com/tvvocold) | meta
+[tvvocold](https://github.com/tvvocold) | [meta](http://1.qinghuai.org/t/meta)
